@@ -12,7 +12,7 @@ MangaMaven is a social media app that brings together manga enthusiasts from aro
 ![Firebase](path/to/firebase.png)
 
 ### Figma
-![Figma](path/to/figma.png)
+![Figma])<img ="1width93" alt="Screenshot 2023-07-04 at 10 28 03 AM" src="https://github.com/flaminshinjan/MangaMaven/assets/116586681/bed00b63-1d80-4c99-9e71-9de2d8916fb5">
 
 ### Dart
 ![Dart](path/to/dart.png)
