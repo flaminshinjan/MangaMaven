@@ -4,18 +4,10 @@
 MangaMaven is a social media app that brings together manga enthusiasts from around the world. It provides a platform for users to explore, discover, and share their favorite manga series and artworks. The app offers a range of features inspired by popular social media platforms like Instagram, creating a vibrant community of manga lovers.
 
 ## Technologies Used
-
-### Flutter
-![Flutter](path/to/flutter.png)
-
-### Firebase
-![Firebase](path/to/firebase.png)
-
-### Figma
-![Figma])<img ="1width93" alt="Screenshot 2023-07-04 at 10 28 03 AM" src="https://github.com/flaminshinjan/MangaMaven/assets/116586681/bed00b63-1d80-4c99-9e71-9de2d8916fb5">
-
-### Dart
-![Dart](path/to/dart.png)
+**- Flutter
+- Firebase
+- Figma
+- Dart**
 
 ## Features
 - User registration and authentication
